@@ -1,4 +1,4 @@
-# React
+# ResumeIQ
 
 A modern React-based project utilizing the latest frontend technologies and tools for building responsive web applications.
 
@@ -53,6 +53,11 @@ react_app/
 ├── tailwind.config.js  # Tailwind CSS configuration
 └── vite.config.js      # Vite configuration
 ```
+## 📸 Dashboard Preview
+
+<img width="1878" height="854" alt="Screenshot 2025-07-28 185152" src="https://github.com/user-attachments/assets/e490ba19-0e49-47fe-9e90-39781cab9636" />
+
+
 
 ## 🧩 Adding Routes
 
